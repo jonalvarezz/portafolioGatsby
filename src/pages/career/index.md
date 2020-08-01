@@ -1,13 +1,13 @@
 ---
 templateKey: TemplateBasic
-title: Juliette Pretot
+title: Liz Victoria Franco
 ---
 
-_Creative, ambitious, and enterprising software engineer. — I strive in teams with strong engineering cultures and meaningful cross-functional collaboration._
+_Creative, ambitious, and enterprising software engineer._
 
-**hi@juliette.sh**
+**hola@lizvictory.dev**
 
-## Experience
+<!--## Experience
 
 ### UX Engineer [Engineering] at Google, 2020.04 - present, London
 
@@ -43,16 +43,15 @@ JavaScript & Python for a health tracking app with 5M users.
 - Prototyped a chatbot in Python
 - Rebuilt the support website, increasing page views by +20%
 - Executed & created company-wide processes for user research
-
+-->
 ## Education
 
-- Law School at Humboldt University Berlin
+- Software Programming Technician
+- Holberton School 
 
-## Recognition
 
-- Google Developer Expert for Web Technologies, 2019 to 2020
-
-## Personal Projects
+<!--## Personal Projects
 
 - [agnostic-axe](https://github.com/juliettepretot/agnostic-axe): Developer tool that reports accessibility issues to the browser console. (Now maintained by [Deque Systems](https://en.wikipedia.org/wiki/Deque_Systems))
 - [co-commit](https://github.com/juliettepretot/npx-co-commit): A Node.js tool to co-author commits on GitHub when pair programming. Featured on the front page of [Product Hunt](https://www.producthunt.com/posts/co-commit).
+-->

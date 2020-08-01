@@ -70,7 +70,7 @@ const HTML: React.FunctionComponent<{
     <head>
       <meta charSet="utf-8" />
       <meta httpEquiv="x-ua-compatible" content="ie=edge" />
-      <title>Juliette Pretot</title>
+      <title>Liz Victoria Franco</title>
       <meta
         name="description"
         content="Creative, ambitious, and enterprising software engineer"
