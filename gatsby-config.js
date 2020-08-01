@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Liz Victoria Franco',
-    siteUrl: 'https://jul.sh',
+    siteUrl: 'https://lizvictory.dev',
   },
   plugins: [
     'gatsby-plugin-preact',
