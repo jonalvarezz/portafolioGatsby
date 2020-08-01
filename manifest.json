@@ -1,0 +1,12 @@
+{
+  "background_color": "#101823",
+  "display": "standalone",
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "name": "Liz Victoria Franco",
+  "orientation": "portrait",
+  "short_name": "Liz Victoria Franco",
+  "splash_pages": null,
+  "start_url": "./",
+  "theme_color": "#101823"
+}
