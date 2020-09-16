@@ -3,7 +3,7 @@ templateKey: TemplateBasic
 title: Liz Victoria Franco
 ---
 
-_Creative, ambitious, and enterprising software engineer._
+_Creative, ambitious, and enterprising software developer._
 
 **hola@lizvictory.dev**
 

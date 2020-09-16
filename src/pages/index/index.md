@@ -5,6 +5,4 @@ featuredImage: ./me.jpg
 style: index
 ---
 
-My name's **_Liz Victoria Franco_**. I'm a creative, ambitious, and enterprising engineer.
-
-I'm student at Holberton School
+My name's **_Liz Victoria Franco_**. I’m a creative, ambitious, and enterprising student at Holberton School.

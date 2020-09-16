@@ -73,7 +73,7 @@ const HTML: React.FunctionComponent<{
           <title>Liz Victoria Franco</title>
           <meta
             name="description"
-            content="Creative, ambitious, and enterprising software engineer"
+            content="Creative, ambitious, and enterprising software developer"
           />
           <meta
             name="viewport"
